@@ -1,0 +1,16 @@
+{
+  "name": "wildered",
+  "version": "1.0.0",
+  "description": "Wildered - Wildlife survival game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
